@@ -1,29 +1,12 @@
-### Hi there 👋
-
-**saikalyan402/saikalyan402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning flutter
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: saikalyan402@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 ### Hi there, I'm Saikalyan Rao! 👋
 
 I'm a Data Science enthusiast pursuing my BS in Data Science and Applications at IIT Madras with a background in Electronics and Systems Engineering from NIELIT, Aurangabad.
 
-🔭 **Currently Working On:** Exploring the nuances of Flutter for mobile app development.
+🔭 **Currently Working On:** Exploring into the fascinating realm of Deep Learning and Neural Networks with Keras, unraveling the intricacies of these technologies. Simultaneously, diving into the captivating world of Computer Vision and Image Processing, discovering the magic behind analyzing and interpreting visual data. Also, advancing skills in Machine Learning, particularly honing in on NLP techniques.
 
-🌱 **Currently Learning:** Delving deeper into Machine Learning, particularly focusing on NLP techniques.
+👯 **Looking to Collaborate On:** Exciting projects related to Machine Learning, Data Analytics and Data Science.
 
-👯 **Looking to Collaborate On:** Exciting projects related to Machine Learning and Data Science.
-
-💬 **Ask me about:** Anything related to Data Science, Machine Learning, or the projects and experiences listed below!
+💬 **Ask me about:** Anything related to Data Science, Machine Learning.
 
 📫 **How to Reach Me:** saikalyan402@gmail.com | +91 8074910314
 
@@ -55,31 +38,6 @@ Analyzed VR GROCER MART's operations using tools like Qlik, PowerBI, and Google 
 #### Publications
 
 - "AI, AR Enabling on Embedded Systems for Agricultural Drones" - IEEE, April 13, 2023
-
-#### Position of Responsibility
-
-- Group Lead of Namdapha House, IIT Madras
-- Head Sponsorship Committee, Chief Curator TEDx NIELIT, Aurangabad
-- Shaastra Envoy team for CodeToChaos, IIT Madras
-
-#### Education
-
-- **BS in Data Science and Applications** - IIT Madras (2021 - 2024) | Chennai, India
-- **B-Tech in Electronics and Systems Engineering** - NIELIT, Aurangabad (2019 - 2023) | Aurangabad, India
-- **Class XII** - Narayana Junior College (2018) | Hyderabad, India
-- **Class X** - Gautham High School (2016) | Hyderabad, India
-
-#### Skills
-
-**Technical:** Data Science, Machine Learning, NLP, Python, SQL, OpenCV, PowerBI, Software Testing, GitHub, and more.
-
-**Soft Skills:** Communication, Leadership, Problem-solving, Teamwork, Critical Thinking.
-
-#### Achievements and Extracurricular Activities
-
-- 1st Position in Men’s Volleyball and 2nd Position in Chess at Intra-College Annual Sports Week, NIELIT, Aurangabad (2023)
-- Explored IoT applications in agriculture and healthcare at a program conducted by Dr. Chethan Solanki, IIT Bombay (2022)
-- Developed a Grid Robot at Flipkart GRiD 3.0 competition (2020)
 
 #### Languages
 
